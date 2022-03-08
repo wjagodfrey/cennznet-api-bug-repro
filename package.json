@@ -9,6 +9,6 @@
   "author": "",
   "license": "UNLICENSED",
   "dependencies": {
-    "@cennznet/api": "^1.5.1"
+    "@cennznet/api": "^1.5.3"
   }
 }
